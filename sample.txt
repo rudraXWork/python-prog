@@ -1,0 +1,5 @@
+hello world 
+this is sample program
+to the find the word in the given text file 
+we will use def function method to find the word in the given text file 
+so let's find the word 
